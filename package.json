@@ -1,0 +1,12 @@
+{
+  "name": "guru.rognes.scriptable-objects",
+  "displayName": "ScriptableObjects",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy",
+  "keywords": [
+    "scriptableobject",
+    "architecture"
+  ],
+  "category": "Tools"
+}
